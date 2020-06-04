@@ -1,3 +1,4 @@
+//paired programming LHL May 25 Cohrt Rob W and Rubin J
 const wordSearch = (letters, word) => {
     if (letters.length === 0) {
         return undefined;

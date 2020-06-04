@@ -1,3 +1,4 @@
+//paired programming LHL May 25 Cohort Rob W and Rubin J
 const chai = require('chai');
 const assert = chai.assert;
 
